@@ -2,3 +2,4 @@
 /venv/
 /config/config.json
 !/config/config.json.dist
+/consolemirko/__pycache__
