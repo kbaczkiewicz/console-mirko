@@ -1,2 +1,4 @@
 /.idea/
 /venv/
+/config/config.json
+!/config/config.json.dist
